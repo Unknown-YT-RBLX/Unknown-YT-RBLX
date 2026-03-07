@@ -1,11 +1,15 @@
-## Hey there!
+#👋 Hey there!
+<br>
 
-<dr>
-I'm Unknown, a Roblox Entrupener and Business Owner located in North Carolina.
+I'm Unknown, a Roblox entrepreneur and business owner based in Huntersville, North Carolina.
+I currently lead operations at The EvoLink Corporation, doing business as Ruby Bus Services, a thriving organization within the Roblox platform.
+💼 What I Do:
+  - Develop and manage Roblox-based businesses and communities
+  - Lead innovation projects under The EvoLink Corporation brand
+  - Build experiences that connect creativity, technology, and community
 
-I currently work at the EvoLink Corporation d/b/a Ruby Bus Services located within ROBLOX
-  - You can contact me at unknown@evolinkrblx.com
-  - You can ask me about anything regarding ROBLOX businesses, doesn't matter to me! I'm here to help.
-
-Some Stats;
-[![GitHub Streak](https://streak-stats.demolab.com?user=Unknown-YT-RBLX&theme=graywhite)](https://git.io/streak-stats)
+Contact Me:
+unknown@evolinkrblx.com
+<br>
+Ask Me About:
+Anything related to Roblox businesses, development, or management — I’m always open to sharing insights and helping others grow in the Roblox economy.
