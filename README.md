@@ -1,5 +1,4 @@
 ## 👋 Hey there!
-
 <hr>
 
 I'm Unknown, a Roblox entrepreneur and business owner based in Huntersville, North Carolina.
